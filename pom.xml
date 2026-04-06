@@ -1,0 +1,1 @@
+<dependencies>\n    <dependency>\n        <groupId>org.springframework.boot</groupId>\n        <artifactId>spring-boot-starter-validation</artifactId>\n    </dependency>\n    <!-- Other dependencies -->\n</dependencies>\n
